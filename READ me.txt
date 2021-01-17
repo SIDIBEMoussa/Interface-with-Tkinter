@@ -1,0 +1,12 @@
+
+##############################################################################
+########################Conseils pour une bonne utilisation################### 
+##############################################################################
+
+	Pour tester cette programme vous  devez assurer un bon fonctionnement d'un serveur localhost par exemple Wampserver et n'oubliez pas le port car sinon l'exécution sera effectuer sur le port par defaut, enfin si vous vous connectez avec un mot renseignez-la sinon ne remplissez pas.
+
+Pour un server Wampserver:
+Host:localhost  Username: root
+
+C'est fortement conseiller d'utilisé un nouveau  database pour eliminer le doute de nom reconnaissance l'incoherence de notation des attributs.
+Ce programme assure la creation et la gestion des tables crée au préalable avec la même notation des attributs
